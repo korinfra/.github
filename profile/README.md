@@ -1,6 +1,6 @@
 # KorInfra
 
-**AI-powered AWS FinOps CLI** → find waste, fix drift, scan security.
+**AI-powered AWS FinOps CLI** → find waste, cut costs, scan security.
 
 ```
 npm install -g korinfra
